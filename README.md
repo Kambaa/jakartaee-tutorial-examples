@@ -1,3 +1,7 @@
+LEARN ABOUT JAKARTA EE:
+https://eclipse-ee4j.github.io/jakartaee-tutorial
+
+
 ## Prerequisites
 
 - Maven
